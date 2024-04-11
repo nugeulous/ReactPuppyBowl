@@ -9,6 +9,13 @@
   border-spacing: 1rem;
 }
 
+.SinglePlayer {
+  border: 10px;
+  border-color: rgb(168, 35, 35);
+  border-width: 5px;
+  font-family: cursive;
+  padding: 1rem;
+}
 
 .card {
   padding: 2em;
